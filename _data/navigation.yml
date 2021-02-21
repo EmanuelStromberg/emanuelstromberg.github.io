@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Home"
+    url: /index.html
+
+  - title: "Articles"
+    url: /archive/
+
+#  - title: "Books"
+#    url: /books/
+
+#  - title: "Newsletter"
+#    url: /newsletter
