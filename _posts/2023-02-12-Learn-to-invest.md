@@ -1,7 +1,6 @@
 ---
 title: "Learn To Invest"
 toc: true
-toc_sticky: true
 
 ---
 
@@ -12,8 +11,6 @@ Great. You've come to the right post.
 My thoughts on the subject aren't revolutionary. It's based on knowledge that has stod the test of ages. It's simple but sound advice. 
 
 Still, take what you agree with, ignore the rest. Below you'll find a table of contents. Jump to a certain section or read the whole article.
-
-{% toc %}
 
 ## "This message is brought to you by:"
 These days, everyone's a savvy investor, at least that's how they portray themselves. But many forget an important rule in investing.
