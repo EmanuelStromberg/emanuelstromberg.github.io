@@ -1,3 +1,9 @@
+---
+title: "Learn To Invest"
+toc: true 
+
+---
+
 So you want to learn the basics about investing?
 
 Great. You've come to the right post. 
