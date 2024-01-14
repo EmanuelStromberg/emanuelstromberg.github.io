@@ -11,9 +11,9 @@ Note: None of the links are affiliate links.
 **[The Power Broker: Robert Moses and the Fall of New York](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/ref=sr_1_1?dchild=1&keywords=power+broker&qid=1609320590&sr=8-1) by Robert A. Caro** A fantastic book about a power hungry man who amassed a lot of it during his lifetime. Let me paint a picture. Elected officials worked for him when it should had been the other way around. On paper they were his bosses but that wasn't true in practice. He controlled them. His influence on New York City was massive and can be seen to this day. Moses was a fascinating man and Caro brings him to life.
 
 
-Meditations
+Meditations - 
 
-Letters from a Stoic
+Letters from a Stoic - Senica
 
 **[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1609320444&sr=8-1) by Cal Newport** Everybody should read this book. As our lives become more digital, the ideas it contains and the value it gives will sky rocket. This book isn't a case against technology, Newport is a computer scientist after all, rather it brings up an important discussion about making active choices in choosing which technology we interact with. That might sound trivial but it's a lot more profound the more you think about it. This book contains ideas which can help you trim your digital life and in the processes ease anxiety caused by our hyperconnected lives.
 
