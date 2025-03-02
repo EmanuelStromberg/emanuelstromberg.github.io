@@ -2,8 +2,6 @@
 title: "The Uncomfortable Truth: How One Emergency Could Sink Your Financial Future"
 ---
 
-# The Uncomfortable Truth: How One Emergency Could Sink Your Financial Future
-
 Many adults lack money to cover unexpected expenses.
 
 In my native Sweden, a study was done around 2016, on how the Swedish people could handle an unexpected expense.
