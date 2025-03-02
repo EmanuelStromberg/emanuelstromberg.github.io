@@ -1,3 +1,7 @@
+---
+title: "The Uncomfortable Truth: How One Emergency Could Sink Your Financial Future"
+---
+
 # The Uncomfortable Truth: How One Emergency Could Sink Your Financial Future
 
 Many adults lack money to cover unexpected expenses.
