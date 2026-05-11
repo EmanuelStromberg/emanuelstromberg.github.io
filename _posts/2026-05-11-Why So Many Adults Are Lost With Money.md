@@ -1,3 +1,7 @@
+---
+title: "Why So Many Adults Are Lost With Money"
+---
+
 # Why So Many Adults Are Lost With Money
 
 How is it that we work to ”make that paper”, but never make sure that it works for us?
