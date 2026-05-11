@@ -2,8 +2,6 @@
 title: "Why So Many Adults Are Lost With Money"
 ---
 
-# Why So Many Adults Are Lost With Money
-
 How is it that we work to ”make that paper”, but never make sure that it works for us?
 
 Fuck. If you work full time that is 40 hours a week. Over a year, that is a shit ton of time. We do it to make money. To be able to live. But we lack a very important skill, the skill to take care of that money we work so hard for.
